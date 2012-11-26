@@ -17,8 +17,8 @@ Jeweler::Tasks.new do |gem|
   gem.name = "koala_objects"
   gem.homepage = "http://github.com/velles/koala_objects"
   gem.license = "MIT"
-  gem.summary = %Q{TODO: one-line summary of your gem}
-  gem.description = %Q{TODO: longer description of your gem}
+  gem.summary = %Q{ Facebook Graph API Objects Representation }
+  gem.description = %Q{This gem represents the Facebook Graph API Objects - http://developers.facebook.com/docs/reference/api/ }
   gem.email = "velimirles@gmail.com"
   gem.authors = ["Velimir Lesikov"]
   # dependencies defined in Gemfile
